@@ -1,6 +1,7 @@
 #!/usr/bin/env python
-
 # This is a test comment for the first SFTP Sublime Text edit.
+# Generally SFTP is considered a secured protocol for this project's scope.
+
 import os
 import sys
 
